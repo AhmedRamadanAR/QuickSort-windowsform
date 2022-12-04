@@ -1,0 +1,11 @@
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\bin\Debug\WindowsFormsApp4.exe
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\WindowsFormsApp4.QuickSort.resources
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\WindowsFormsApp4.exe
+C:\Users\ahmed\source\repos\QuickSort\QuickSort\obj\Debug\WindowsFormsApp4.pdb
